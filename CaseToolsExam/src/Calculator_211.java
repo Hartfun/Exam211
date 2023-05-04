@@ -2,6 +2,8 @@
 public class Calculator_211 {
 	int num1, num2;
 	
+	int result;
+	
 	Calculator_211(int num1, int num2)
 	{
 		this.num1=num1;
